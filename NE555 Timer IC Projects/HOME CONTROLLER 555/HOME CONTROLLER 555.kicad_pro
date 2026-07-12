@@ -217,11 +217,13 @@
       "zones_allow_external_fillets": false
     },
     "ipc2581": {
+      "bom_rev": "",
       "dist": "",
       "distpn": "",
       "internal_id": "",
       "mfg": "",
-      "mpn": ""
+      "mpn": "",
+      "sch_revision": ""
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -639,7 +641,7 @@
       {
         "filename": "HOME CONTROLLER 555.kicad_sch",
         "name": "HOME CONTROLLER 555",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "2aea3e6a-bd71-4f4f-99c0-29815e84373e"
       }
     ],
     "used_designators": "",
@@ -648,7 +650,7 @@
   "sheets": [
     [
       "2aea3e6a-bd71-4f4f-99c0-29815e84373e",
-      "Root"
+      "HOME CONTROLLER 555"
     ]
   ],
   "text_variables": {},

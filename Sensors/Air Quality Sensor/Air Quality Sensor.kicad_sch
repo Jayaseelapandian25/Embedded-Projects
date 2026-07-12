@@ -1,5 +1,5 @@
 (kicad_sch
-	(version 20260101)
+	(version 20260306)
 	(generator "eeschema")
 	(generator_version "10.0")
 	(uuid "f8d5978a-3cb3-4c0b-ace7-d093dfb9863e")
@@ -2589,7 +2589,7 @@
 			(uuid "e3ab8871-52ca-4f07-9eac-05f664ed9253")
 		)
 		(instances
-			(project ""
+			(project "Air Quality Sensor"
 				(path "/f8d5978a-3cb3-4c0b-ace7-d093dfb9863e"
 					(reference "R1")
 					(unit 1)
@@ -2667,7 +2667,7 @@
 			(uuid "58b28773-7d85-4280-947b-4cbe512f448a")
 		)
 		(instances
-			(project ""
+			(project "Air Quality Sensor"
 				(path "/f8d5978a-3cb3-4c0b-ace7-d093dfb9863e"
 					(reference "#PWR02")
 					(unit 1)
@@ -2745,7 +2745,7 @@
 			(uuid "d35fba0e-f559-486b-8cac-02bfe6623903")
 		)
 		(instances
-			(project ""
+			(project "Air Quality Sensor"
 				(path "/f8d5978a-3cb3-4c0b-ace7-d093dfb9863e"
 					(reference "#PWR01")
 					(unit 1)
@@ -2827,7 +2827,7 @@
 			(uuid "e935a245-b61a-4b82-8d81-b1229ee3012c")
 		)
 		(instances
-			(project ""
+			(project "Air Quality Sensor"
 				(path "/f8d5978a-3cb3-4c0b-ace7-d093dfb9863e"
 					(reference "C1")
 					(unit 1)
@@ -2921,7 +2921,7 @@
 			(uuid "2735883c-4dca-41fd-b3eb-a1e6b6901d04")
 		)
 		(instances
-			(project ""
+			(project "Air Quality Sensor"
 				(path "/f8d5978a-3cb3-4c0b-ace7-d093dfb9863e"
 					(reference "U1")
 					(unit 1)
@@ -3014,7 +3014,7 @@
 			(uuid "f619a1ac-2f9b-4ac6-bdb5-71562fa19c2f")
 		)
 		(instances
-			(project ""
+			(project "Air Quality Sensor"
 				(path "/f8d5978a-3cb3-4c0b-ace7-d093dfb9863e"
 					(reference "D2")
 					(unit 1)
@@ -3096,7 +3096,7 @@
 			(uuid "cdce5222-30e2-4808-9116-377173200ac0")
 		)
 		(instances
-			(project ""
+			(project "Air Quality Sensor"
 				(path "/f8d5978a-3cb3-4c0b-ace7-d093dfb9863e"
 					(reference "C2")
 					(unit 1)
@@ -3189,7 +3189,7 @@
 			(uuid "c8e13dee-04c9-4ffe-ad25-2271c57b3052")
 		)
 		(instances
-			(project ""
+			(project "Air Quality Sensor"
 				(path "/f8d5978a-3cb3-4c0b-ace7-d093dfb9863e"
 					(reference "D1")
 					(unit 1)
@@ -3277,7 +3277,7 @@
 			(uuid "d8459b33-88ad-4ca0-b248-af630eb3ea3b")
 		)
 		(instances
-			(project ""
+			(project "Air Quality Sensor"
 				(path "/f8d5978a-3cb3-4c0b-ace7-d093dfb9863e"
 					(reference "J1")
 					(unit 1)
@@ -3355,7 +3355,7 @@
 			(uuid "1f1a8583-14c5-4a33-b077-7b98f6c77964")
 		)
 		(instances
-			(project ""
+			(project "Air Quality Sensor"
 				(path "/f8d5978a-3cb3-4c0b-ace7-d093dfb9863e"
 					(reference "#FLG03")
 					(unit 1)
@@ -3434,7 +3434,7 @@
 			(uuid "5e041927-a417-4357-8034-af6697b5969b")
 		)
 		(instances
-			(project ""
+			(project "Air Quality Sensor"
 				(path "/f8d5978a-3cb3-4c0b-ace7-d093dfb9863e"
 					(reference "#FLG02")
 					(unit 1)
@@ -3531,7 +3531,7 @@
 			(uuid "e1829af2-ce1a-4594-8ece-b6f36cd640ac")
 		)
 		(instances
-			(project ""
+			(project "Air Quality Sensor"
 				(path "/f8d5978a-3cb3-4c0b-ace7-d093dfb9863e"
 					(reference "U2")
 					(unit 1)
@@ -3614,7 +3614,7 @@
 			(uuid "91e07e84-d3e6-43df-8e39-e95c7a727f13")
 		)
 		(instances
-			(project ""
+			(project "Air Quality Sensor"
 				(path "/f8d5978a-3cb3-4c0b-ace7-d093dfb9863e"
 					(reference "RV1")
 					(unit 1)
@@ -3713,7 +3713,7 @@
 			(uuid "e1829af2-ce1a-4594-8ece-b6f36cd640ad")
 		)
 		(instances
-			(project ""
+			(project "Air Quality Sensor"
 				(path "/f8d5978a-3cb3-4c0b-ace7-d093dfb9863e"
 					(reference "U2")
 					(unit 3)
@@ -3873,7 +3873,7 @@
 			(uuid "86371e08-4ab9-4b26-b472-611fa0ca4691")
 		)
 		(instances
-			(project ""
+			(project "Air Quality Sensor"
 				(path "/f8d5978a-3cb3-4c0b-ace7-d093dfb9863e"
 					(reference "#FLG01")
 					(unit 1)
